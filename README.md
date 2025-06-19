@@ -1,7 +1,9 @@
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/ManzDev/manzdev/blob/master/images/manzdev-banner.png"><img src="![971](https://github.com/user-attachments/assets/2e9fa438-9064-48fd-a85e-4fa7350b7b7a)" alt="ManzDev - GitHub Profile" style="max-width: 100%;"></a></p>
+![diseño](https://github.com/user-attachments/assets/77b66b49-ba81-4dde-b7a1-ae319200ef98)
 
-  
+
+
+
 
 ### <div align="center">I'm Yeray, a passionate fronted developer from Spain</div>  
   
