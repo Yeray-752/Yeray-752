@@ -3,14 +3,14 @@
 
 
 
+<br/>  
 
-
-### <div align="center">I'm Yeray, a passionate fronted developer from Spain</div>  
+👋 Hi there! I'm Yeray, a passionate frontend developer from Spain 🇪🇸.  
+🚀 I love building clean, modern, and responsive user interfaces that provide great user experiences.  
+🎯 I'm constantly learning and aiming to grow into a full-stack developer. 
   
 
-- 🔭 I’m currently working on Personal proyect  
-  
-
+- 🔭 I’m currently working on Personal project  
 - 🌱 I’m currently learning Electron  
 
 
