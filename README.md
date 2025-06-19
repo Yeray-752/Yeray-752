@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?t=st=1750326799~exp=1750330399~hmac=e1ae307640e0729065b96ba4ed7606fb99f7280b6fbc4b3cccb86412aad2c19a&w=1380" align="center" style="width: 100%" />
-</div>  
+
+<img src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?t=st=1750326799~exp=1750330399~hmac=e1ae307640e0729065b96ba4ed7606fb99f7280b6fbc4b3cccb86412aad2c19a&w=1380" align="center" width="1200px" height="400px"/>
+
   
 
 ### <div align="center">I'm Yeray, a passionate fronted developer from Spain</div>  
