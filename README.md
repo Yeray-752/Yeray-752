@@ -1,5 +1,5 @@
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/ManzDev/manzdev/blob/master/images/manzdev-banner.png"><img src="/ManzDev/manzdev/raw/master/images/manzdev-banner.png" alt="ManzDev - GitHub Profile" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/ManzDev/manzdev/blob/master/images/manzdev-banner.png"><img src="![971](https://github.com/user-attachments/assets/2e9fa438-9064-48fd-a85e-4fa7350b7b7a)" alt="ManzDev - GitHub Profile" style="max-width: 100%;"></a></p>
 
   
 
