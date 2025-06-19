@@ -5,16 +5,37 @@
 
 <br/>  
 
-👋 Hi there! I'm Yeray, a passionate frontend developer from Spain 🇪🇸.  
-🚀 I love building clean, modern, and responsive user interfaces that provide great user experiences.  
+<h2 align="center" style="font-weight: bold;">👋 Hi there! I'm Yeray, a passionate frontend developer from Spain.</h2>
+🚀 I love building clean, modern, and responsive user interfaces that provide great user experiences. 
+
 🎯 I'm constantly learning and aiming to grow into a full-stack developer. 
   
 
-- 🔭 I’m currently working on Personal project  
-- 🌱 I’m currently learning Electron  
+## 🧠 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+- 🧠 Self-taught developer with a strong passion for UI/UX.  
+- 🎓 Currently exploring cross-platform development with Electron.  
+- 🌍 Based in Spain, always open to collaborating on open-source or freelance projects.  
+- 🕹️ In my free time, I love gaming, listening to music, and learning new tech tools.
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <br/>  
+
+
+
+
 
 
 ## My Skill Set  
