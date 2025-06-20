@@ -20,7 +20,7 @@
 - 🧠 Self-taught developer with a strong passion for UI/UX.  
 - 🎓 Currently exploring cross-platform development with Electron.  
 - 🌍 Based in Spain, always open to collaborating on open-source or freelance projects.  
-- 🕹️ In my free time, I love gaming, listening to music, and learning new tech tools.
+- 🕹️ In my free time, I love gaming, listening to music, and learning new tech tools. 
 
     </td>
     <td width="40%" align="center">
