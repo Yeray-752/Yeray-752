@@ -81,7 +81,7 @@
 
 ### Github Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeray-752)](https://github.com/Yeray-752/Yeray-752)
 
 <br/>  
 
